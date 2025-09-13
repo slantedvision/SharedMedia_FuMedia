@@ -1,4 +1,4 @@
 ## Interface: 100002 
-## Title: SharedMedia_MyMedia 
+## Title: SharedMedia_FuMedia 
 ## Dependencies: SharedMedia 
-MyMedia.lua 
+FuMedia.lua 
