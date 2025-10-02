@@ -15,7 +15,7 @@ local LSM = LibStub("LibSharedMedia-3.0")
 -- -----
 --   SOUND
 -- -----
-LSM:Register("sound", "fireeverything", [[Interface\Addons\SharedMedia_FuMedia\sound\fireeverything.mp3]]) 
+LSM:Register("sound", "StarTrek-FireEverything", [[Interface\Addons\SharedMedia_FuMedia\sound\fireeverything.mp3]]) 
 LSM:Register("sound", "zelda_chest_opening", [[Interface\Addons\SharedMedia_FuMedia\sound\zelda_chest_opening.ogg]]) 
 LSM:Register("sound", "zelda_chest_tada", [[Interface\Addons\SharedMedia_FuMedia\sound\zelda_chest_tada.ogg]]) 
 LSM:Register("sound", "FFT_Complete", [[Interface\Addons\SharedMedia_FuMedia\sound\complete1.ogg]]) 
