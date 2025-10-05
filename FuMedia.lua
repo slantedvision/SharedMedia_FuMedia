@@ -20,6 +20,7 @@ LSM:Register("sound", "zelda_chest_opening", [[Interface\Addons\SharedMedia_FuMe
 LSM:Register("sound", "zelda_chest_tada", [[Interface\Addons\SharedMedia_FuMedia\sound\zelda_chest_tada.ogg]]) 
 LSM:Register("sound", "FFT_Complete", [[Interface\Addons\SharedMedia_FuMedia\sound\complete1.ogg]]) 
 LSM:Register("sound", "A10-Guns", [[Interface\Addons\SharedMedia_FuMedia\sound\A10Warthog.ogg]]) 
+LSM:Register("sound", "KPop-Golden", [[Interface\Addons\SharedMedia_FuMedia\sound\golden.ogg]]) 
 
 -- -----
 --   STATUSBAR
